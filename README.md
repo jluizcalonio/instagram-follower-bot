@@ -35,4 +35,4 @@ Alternatively, you can simply copy the profile name from the link and paste it i
 <hr>
 
 ### OVERVIEW
-Made with Python and useing Selenium.
+Made with Python and using Selenium.
