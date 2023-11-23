@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Instagram Follower Bot
 A bot that automatically follows people on Instagram. Hopefully, they'll follow you back.
 
@@ -30,3 +31,8 @@ Obviously, there's no guarantee they'll follow you back. But it's a common pract
 Alternatively, you can simply copy the profile name from the link and paste it in the same constant, where it says "TARGET_PROFILE".
 
 4. There! You can now use the Follower Bot.
+
+<hr>
+
+### OVERVIEW
+Made with Python and useing Selenium.
